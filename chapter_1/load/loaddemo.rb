@@ -1,0 +1,6 @@
+puts "This is the first (master) program file."
+load "loadee.rb"
+load "loadee.rb"
+require "/home/kratos/Projects/Ruby/Rubyist/chapter_1/load/loadee"
+require "/home/kratos/Projects/Ruby/Rubyist/chapter_1/load/loadee"
+puts "And back again to the first file."

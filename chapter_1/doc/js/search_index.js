@@ -1,0 +1,1 @@
+var search_data = {"index":{"searchIndex":["object","one"],"longSearchIndex":["object","one"],"info":[["Object","","Object.html","",""],["One","","One.html","","<p>Class Variables - Begins with @@ sign\n"]]}}
